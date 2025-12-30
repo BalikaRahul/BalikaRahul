@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently for a job<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 I’m currently for a job<br>🤝 I’m looking for help to complete full stack project<br>🌱 I’m currently learning backend<br>⚡ Fun fact oranges are in orange color
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/rahul-b-89207b326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rr7511489@gmail.com) 
